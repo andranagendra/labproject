@@ -1,0 +1,25 @@
+ls
+git init
+git add .
+git status
+git diff
+git push
+git pull
+git fetch
+git clone
+git tag
+git checkout branch name
+git branch branch name
+git checkout filename
+git reset head filename
+git tag 
+git log
+git remote
+git remote add name url(github url
+ssh-keygen
+ssh -T git@github.com
+git merge child branch name
+git push origin branch name
+git mergetool
+git stash
+date
