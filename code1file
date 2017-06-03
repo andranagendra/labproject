@@ -13,6 +13,9 @@ git branch branch name
 git checkout filename
 git reset head filename
 git tag 
+git tag tagname -m "message"
+git show tagname 
+git show --tags
 git log
 git remote
 git remote add name url(github url
