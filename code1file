@@ -18,7 +18,7 @@ git show tagname
 git show --tags
 git log
 git remote
-git remote add name url(github url
+git remote add name url(github url)
 ssh-keygen
 ssh -T git@github.com
 git merge child branch name
